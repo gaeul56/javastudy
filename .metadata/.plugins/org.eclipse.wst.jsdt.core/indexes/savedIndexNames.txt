@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/seoga-eul/Desktop/javastudy/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1138332905.index
+3317566679.index
+611725393.index
+778208981.index
+3820662991.index
+83381508.index
